@@ -5,7 +5,7 @@ class App extends Component {
   render () {
     return (
       <div id="root-container">
-        <h1 id="__welcome-header">Welcome!</h1>
+        <h1 id="__welcome-header">Hello World!</h1>
         <hr />
         <Todo />
       </div>
@@ -13,4 +13,4 @@ class App extends Component {
   }
 }
 
-export default App
+export default App;
